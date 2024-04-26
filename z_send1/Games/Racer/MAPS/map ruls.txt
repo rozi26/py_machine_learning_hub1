@@ -1,0 +1,2 @@
+speed - depend on the level of the color blue (0-slowest, 255-fastest)
+starting line - when the color is FF0000 (red)
